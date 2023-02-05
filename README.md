@@ -8,17 +8,20 @@ FSO_FGA_UnB 📚-Repositório Criado para a disciplina de Fundamentos de Sistema
 
 - A: []()
 - B: []()
+ 
 <b>Clique [aqui]() para ver as soluções.</b>
 ## Trabalho 2 de FSO
 <b>A Lista 2 foi formada por 2 problemas. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: []();
 - B: []();
+ 
 <b>Clique [aqui]() para ver as soluções.</b>
 ## Trabalho 3 de FSO
 <b>A Lista 3 foi formada por 3 problemas. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: []();
 - B: []();
 - C: []();
+ 
 <b>Clique [aqui]() para ver as soluções.</b>
  
 ## Trabalho 4 de FSO
