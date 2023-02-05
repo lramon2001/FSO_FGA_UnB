@@ -9,27 +9,27 @@ FSO_FGA_UnB 📚-Repositório Criado para a disciplina de Fundamentos de Sistema
 - A: [Parâmetros de linha de comando](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%201/argc_argv.pdf)
 - B: [Carga dinâmica de bibliotecas](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%201/dlfun.pdf)
  
-<b>Clique [aqui]() para ver as soluções.</b>
+<b>Clique [aqui](https://github.com/lramon2001/FSO_FGA_UnB/tree/main/Solucoes/Trabalho%201) para ver as soluções.</b>
 ## Trabalho 2 de FSO
 <b>A Lista 2 foi formada por 2 problemas. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: [Vetores Idênticos](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%202/fso-vetoresidenticos.pdf);
 - B: [Processo Preguiçoso](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%202/processo-preguicoso.pdf);
  
-<b>Clique [aqui]() para ver as soluções.</b>
+<b>Clique [aqui](https://github.com/lramon2001/FSO_FGA_UnB/tree/main/Solucoes/Trabalho%202) para ver as soluções.</b>
 ## Trabalho 3 de FSO
 <b>A Lista 3 foi formada por 3 problemas. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: [FIFO](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%203/fso-substituipaginas-fifo.pdf);
 - B: [OTM](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%203/fso-substituipaginas-otm.pdf);
 - C: [LRU](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%203/fso-substituipaginas-lru.pdf);
  
-<b>Clique [aqui]() para ver as soluções.</b>
+<b>Clique [aqui](https://github.com/lramon2001/FSO_FGA_UnB/tree/main/Solucoes/Trabalho%203) para ver as soluções.</b>
  
 ## Trabalho 4 de FSO
 <b>A Lista 4 foi formada por 2 problemas. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: [Quase Primos Malucos](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%204/quaseprimos-threads.pdf);
 - B: [Operações em arquivos](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%204/samefile.pdf);
  
-<b>Clique [aqui]() para ver as soluções.</b>
+<b>Clique [aqui](https://github.com/lramon2001/FSO_FGA_UnB/tree/main/Solucoes/Trabalho%204) para ver as soluções.</b>
  
  
 ## Trabalho Extra 1
