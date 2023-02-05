@@ -6,35 +6,35 @@ FSO_FGA_UnB 📚-Repositório Criado para a disciplina de Fundamentos de Sistema
 ## Trabalho 1 de FSO
 <b>A Lista 1 foi basicamente formada por 2 problemas. Os problemas serão listados a seguir e há links associados a eles.</b>
 
-- A: []()
-- B: []()
+- A: [Parâmetros de linha de comando]()
+- B: [Carga dinâmica de bibliotecas]()
  
 <b>Clique [aqui]() para ver as soluções.</b>
 ## Trabalho 2 de FSO
 <b>A Lista 2 foi formada por 2 problemas. Os problemas serão listados a seguir e há links associados a eles.</b>
-- A: []();
-- B: []();
+- A: [Vetores Idênticos]();
+- B: [Processo Preguiçoso]();
  
 <b>Clique [aqui]() para ver as soluções.</b>
 ## Trabalho 3 de FSO
 <b>A Lista 3 foi formada por 3 problemas. Os problemas serão listados a seguir e há links associados a eles.</b>
-- A: []();
-- B: []();
-- C: []();
+- A: [FIFO]();
+- B: [OTM]();
+- C: [LRU]();
  
 <b>Clique [aqui]() para ver as soluções.</b>
  
 ## Trabalho 4 de FSO
 <b>A Lista 4 foi formada por 2 problemas. Os problemas serão listados a seguir e há links associados a eles.</b>
-- A: []();
-- B: []();
+- A: [Quase Primos Malucos]();
+- B: [Operações em arquivos]();
  
 <b>Clique [aqui]() para ver as soluções.</b>
  
  
 ## Trabalho Extra 1
 <b>O trablho foi formado por 1 problema de implementações na linguagem C. O problema será listado a seguir e há  um link associados a ele.</b>
-- A: []();
+- A: [Time]();
 
  
 <b>Clique [aqui]() para ver as soluções.</b>
