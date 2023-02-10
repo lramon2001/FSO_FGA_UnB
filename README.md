@@ -37,4 +37,4 @@ FSO_FGA_UnB 📚-Repositório Criado para a disciplina de Fundamentos de Sistema
 - A: [Time](https://github.com/lramon2001/FSO_FGA_UnB/blob/main/Problemas/Trabalho%20Extra%201/fso-timedshell.pdf);
 
  
-<b>Clique [aqui]() para ver as soluções.</b>
+<b>Clique [aqui](https://github.com/lramon2001/FSO_FGA_UnB/tree/main/Solucoes/TrabalhoExtra) para ver as soluções.</b>
